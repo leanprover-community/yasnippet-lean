@@ -1,13 +1,16 @@
-;;; yasnippet-lean.el --- Collection of yasnippet Lean snippets
+;;; yasnippet-lean.el --- Collection of snippets for the Lean prover
 
 ;; adapted from https://github.com/AndreaCrotti/yasnippet-snippets/blob/master/yasnippet-snippets.el
 
 ;; Copyright (C) 2017 Andrea Crotti
 
-;; Author: Andrea Crotti <andrea.crotti.0@gmail.com>, Simon Hudon <simon.hudon@gmail.com>
+;; Authors: Andrea Crotti <andrea.crotti.0@gmail.com>,
+;;          Simon Hudon <simon.hudon@gmail.com>
 ;; Version: 0.1
 ;; Package-Requires: ((yasnippet "0.8.0"))
 ;; Keywords: convenience, snippets, leanprover
+;; Maintainer: Simon Hudon <simon.hudon@gmail.com>
+;; URL: http://github.com/leanprover-community/yasnippet-lean
 
 ;;; Commentary:
 
