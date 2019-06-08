@@ -10,7 +10,7 @@
 ;; Package-Requires: ((yasnippet "0.8.0"))
 ;; Keywords: convenience, snippets, leanprover
 ;; Maintainer: Simon Hudon <simon.hudon@gmail.com>
-;; URL: http://github.com/leanprover-community/yasnippet-lean
+;; URL: https://github.com/leanprover-community/yasnippet-lean
 
 ;;; Commentary:
 
@@ -29,7 +29,7 @@
 ;; GNU General Public License for more details.
 
 ;; You should have received a copy of the GNU General Public License
-;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
+;; along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ;;; Code:
 
