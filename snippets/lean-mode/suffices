@@ -3,4 +3,4 @@
 # key: suff
 # --
 suffices ${1:this} : $2,
-  by {$3},
+  ${3:by {$4}}
