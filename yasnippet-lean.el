@@ -64,10 +64,6 @@ See Info node `(elisp)Customization Types'."
 (eval-after-load 'yasnippet
    '(yasnippet-lean-initialize))
 
-(define-key lean-mode-map "\C-s&\C-s" 'yas-insert-snippet)
-(define-key lean-mode-map "\C-s&\C-n" 'yas-new-snippet)
-(define-key lean-mode-map "\C-s&\C-v" 'yas-visit-snippet-file)
-
 (provide 'yasnippet-lean)
 
 ;;; yasnippet-lean.el ends here
