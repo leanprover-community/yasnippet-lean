@@ -3,9 +3,7 @@
 # key: license
 # --
 /-
-Copyright (c) `(format-time-string "%Y")` $1. All rights reserved.
+Copyright (c) `(format-time-string "%Y")` ${1:`user-full-name`}. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
-Author(s): $1 $2
-
-${3:put description here }
+Author${2:$(if (string= "" yas-text) "" "s")}: $1${2:$(if (string= "" yas-text) "" ", ")}${2:other}
 -/
