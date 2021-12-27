@@ -4,6 +4,9 @@ Lean snippets for the `yasnippet` package.
 
 ![yasnippet-lean demo](yasnippet-lean-test.gif "Typing Lean code fast")
 
+# New
+
+ * snippets for Lean 4
 
 # How to install
 
@@ -29,11 +32,10 @@ Now all the snippets will load automatically, as soon as yasnippet loads.
 
 (use-package yasnippet
   :ensure t)
-  
+
 # Contributing
 
 If you have any useful snippets for Lean, then please feel free to contribute, by opening a PR or an issue if you have any suggestions.
 
 To study the current snippets, I suggest that you use `M-x yas-describe-tables`,
 which will show a table representation of all the snippets that are available in the current mode.
-
